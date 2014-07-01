@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: ATI Radeon HD 3200 Graphics (ID=0x9612)
+    Vendor:   ATI
+    VRAM:     252 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Richard\Desktop\Space Turret Game\Space Turret_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Richard\Desktop\Space Turret Game\Space Turret_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Richard\Desktop\Space Turret Game\Space Turret_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Richard\Desktop\Space Turret Game\Space Turret_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.104 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
