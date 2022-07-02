@@ -1,0 +1,41 @@
+﻿namespace Assets.Scripts.Characters
+{
+    public enum SubType
+    {
+        Air,
+        Amphibious,
+        Aquatic,
+        Chimera,
+        Colossal,
+        Construct,
+        DemiGod,
+        Demonic,
+        Earth,
+        Fire,
+        Giant,
+        Holy,
+        Horned,
+        Land,
+        Large,
+        Lich,
+        Lightning,
+        Minitature,
+        Monstrous,
+        MultiLimbed,
+        Mystic,
+        Natural,
+        Pygmy,
+        Shadow,
+        Skeletal,
+        Small,
+        Stingered,
+        Stone,
+        Spectral,
+        Vampiric,
+        Water,
+        Were,
+        Winged,
+        Undead,
+        Zombie
+    }
+}
