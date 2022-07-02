@@ -1,0 +1,40 @@
+﻿Build started 3/2/2013 8:22:17 AM.
+     1>Project "C:\Users\Richard\Documents\Pirate Game\Pirates\Pirates\Pirates.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Pirates.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(103): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(108): warning C4244: '+=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(109): warning C4244: '+=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(114): warning C4244: '+=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(115): warning C4244: '+=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(118): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(126): warning C4244: '-=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(127): warning C4244: '-=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(136): warning C4244: '-=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(137): warning C4244: '-=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(144): warning C4305: '+=' : truncation from 'double' to 'irr::f32'
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(144): warning C4305: '-=' : truncation from 'double' to 'irr::f32'
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(150): warning C4305: '+=' : truncation from 'double' to 'irr::f32'
+     1>c:\users\richard\documents\pirate game\pirates\pirates\main.cpp(150): warning C4305: '-=' : truncation from 'double' to 'irr::f32'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Richard\Documents\Pirate Game\Pirates\Debug\Pirates.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Pirates.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Richard\Documents\Pirate Game\Pirates\Debug\Pirates.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Richard\Documents\Pirate Game\Pirates\Debug\Pirates.lib" /MACHINE:X86 Debug\Pirates.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Pirates.exe.embed.manifest" /manifest Debug\Pirates.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Pirates.vcxproj -> C:\Users\Richard\Documents\Pirate Game\Pirates\Debug\Pirates.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Pirates.unsuccessfulbuild".
+         Touching "Debug\Pirates.lastbuildstate".
+     1>Done Building Project "C:\Users\Richard\Documents\Pirate Game\Pirates\Pirates\Pirates.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.31
